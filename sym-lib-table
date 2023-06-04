@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "kr556rt2_eprom")(type "KiCad")(uri "${KIPRJMOD}/lib/kr556rt2_eprom.kicad_sym")(options "")(descr ""))
+)
