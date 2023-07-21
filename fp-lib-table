@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "convertor_kr")(type "KiCad")(uri "${KIPRJMOD}/lib/convertor_kr.pretty")(options "")(descr ""))
+)
